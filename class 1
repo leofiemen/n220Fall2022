@@ -1,0 +1,21 @@
+let myName ="Travis":
+my name += "the teacher";
+let num= 10;
+let b =20;
+num +5 ;
+num -5;
+num * b;
+b/5
+num = b % 8;
+
+
+
+
+
+
+
+
+if(num>b) {
+
+}
+console.logh
